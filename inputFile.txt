@@ -1,0 +1,1 @@
+Both the tasks should be completed in a week's time. Take or discuss if any assumptions are to be made. Think of appropriate validations and include them. All code should be your own and keep a record of effort you put into the task. Code and documentation should be shared via github/gitlab. 

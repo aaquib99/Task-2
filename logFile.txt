@@ -1,0 +1,3 @@
+Error in file app.py name 'result' is not defined
+Error in file app.py name 'result' is not defined
+Error in file app.py name 'res' is not defined
