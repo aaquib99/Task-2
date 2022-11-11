@@ -1,1 +1,0 @@
-Number of Nouns is given file is 8 ,verb count is 7 and adjective count is 2

@@ -1,3 +1,1 @@
-Error in file app.py name 'result' is not defined
-Error in file app.py name 'result' is not defined
-Error in file app.py name 'res' is not defined
+2022-11-11 15:43:38.478239 : Error in file app.py name 'result' is not defined
